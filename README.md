@@ -3,8 +3,8 @@ Deployed Site: http://henryjaxon.freetzi.com/
 
 A Portfolio Built from A WordPress Template
 
-○ Features contemporary black and white CSS
+    ○ Features contemporary black and white CSS
 
-○ Responsive
+    ○ Responsive
 
-○ Simple, neat code that is easy to customize
+    ○ Simple, neat code that is easy to customize
